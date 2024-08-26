@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Intersect Steering Working Group
 
 ## Purpose / Goal
 
