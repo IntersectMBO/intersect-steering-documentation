@@ -1,10 +1,7 @@
-# Intersect Steering Committee Documentation
+# About Intersect Steering Committee
 
-This repository stores the documentation for Intersect Steering committee.
-This documentation is hosted (for reading) at [intersect.gitbook.io/Intersect Steering-committee](https://intersect.gitbook.io/Intersect Steering-committee).
 
-## 🤝 Contributing
 
-Thanks for considering contributing to Intersect Steering committee documentation! 😎
-
-Please checkout our [Contributing Documentation](./CONTRIBUTING.md).
+{% hint style="info" %}
+This committee is currently being established, more information coming soon.
+{% endhint %}
