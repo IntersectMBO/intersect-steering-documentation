@@ -1,5 +1,5 @@
 name: Feature idea
-description: Idea or request for some feature on the xxx Committee GitBook
+description: Idea or request for some feature on the Intersect Steering Committee GitBook
 labels: [':thought_balloon: idea']
 body:
   - type: markdown
@@ -7,14 +7,14 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/xxxx-committee-documentation/discussions/new?category=ideas).
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/Intersect-Steering-committee-documentation/discussions/new?category=ideas).
         That way, we can discuss & refine your idea together, before we adopt it as a feature into the roadmap.
 
   - type: textarea
     id: why
     attributes:
       label: Why
-      description: Why do we need or want this feature
+      description: Why do we need or want this feature?
       placeholder: |
         Give context and describe the problem, challenge or opportunity you see
     validations:
@@ -24,7 +24,7 @@ body:
     id: what
     attributes:
       label: What
-      description: What is this feature roughly about
+      description: What is this feature roughly about?
       placeholder: |
         For example describe a new API endpoint, a change in messaging formats,
         a new configuration option, ...
@@ -35,7 +35,7 @@ body:
     id: how
     attributes:
       label: How
-      description: How could we realize this feature
+      description: How could we realize this feature?
       placeholder: |
         Which technical solutions, libraries or systems should be used, which
         components need to change, steps how to implement this, ...
