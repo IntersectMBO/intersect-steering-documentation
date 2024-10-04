@@ -1,4 +1,4 @@
-name: Feature idea
+name: Feature idea Intersect Steering
 description: Idea or request for some feature on the Intersect Steering Committee GitBook
 labels: [':thought_balloon: idea']
 body:
@@ -7,7 +7,7 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/Intersect-Steering-committee-documentation/discussions/new?category=ideas).
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/intersect-steering-documentation/discussions/new?category=ideas).
         That way, we can discuss & refine your idea together, before we adopt it as a feature into the roadmap.
 
   - type: textarea
