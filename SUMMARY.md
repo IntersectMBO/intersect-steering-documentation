@@ -3,14 +3,13 @@
 ## ABOUT
 
 * [About Intersect Steering Committee](README.md)
-* [Committee Members](about/committee-members/README.md)
-  * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
+* [Committee Members](about/committee-members.md)
 * [Working Groups](about/working-groups.md)
-* [How to Join?](about/how-to-join.md)
+* [How to Join and Contact us?](about/how-to-join.md)
 
 ## Committee Meeting Notes
 
-* [\[DD/MM/YYY\]](committee-meeting-notes/dd-mm-yyy.md)
+* [March 24, 2025 ISC Meeting](committee-meeting-notes/dd-mm-yyy.md)
 
 ## Standards operational procedures
 
