@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Intersect Steering Committee](README.md)
+* [Intersect Steering Committee (ISC)](README.md)
 * [Committee Members](about/committee-members.md)
 * [Working Groups](about/working-groups.md)
 * [How to Join and Contact us?](about/how-to-join.md)
