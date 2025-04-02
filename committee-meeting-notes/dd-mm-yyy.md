@@ -1,6 +1,6 @@
 # March 24, 2025 ISC Meeting
 
-### Agenda
+## Agenda
 
 * Proposal Submission Portal - Progress Update
 * Intersect Committee Election - Progress Update
@@ -8,7 +8,7 @@
 * Intersect Governance WG Charter
 * Committee Update - Risks & Issuses
 
-### Attendees&#x20;
+## Attendees&#x20;
 
 | Name                                                 | Attendance | Role                                    | Voting Seat (Y/N) |
 | ---------------------------------------------------- | ---------- | --------------------------------------- | ----------------- |
@@ -39,9 +39,9 @@
 * Valeria Devaux - Observer
 * Adam Rush- Observer
 
-### Key Outcomes & Discussions
+## Key Outcomes & Discussions
 
-#### **1. Budget Process Clarity & Timeline**
+### **1. Budget Process Clarity & Timeline**
 
 * Clarification provided on the budget submission process and deadlines.
 * The budget submission form will remain open:
@@ -50,14 +50,14 @@
 * Discussion on the net change limit proposal and its potential impact on the 2025 budget.
 * Concerns raised about the constitutionality of the net change limit decision.
 
-#### **2. Budget Proposal Tooling & Migration**
+### **2. Budget Proposal Tooling & Migration**
 
 * Update on the development of a new budget proposal tool within gov.tools.
 * Discussion on migrating existing budget proposals to the new tool.
 * Concerns about potential confusion among users due to the form change.
 * Clarification that the new tool will be accessible via the same URL as the existing form.
 
-#### **3. Committee Elections Update**
+### **3. Committee Elections Update**
 
 * Update on committee elections, including:
   * Communication efforts.
@@ -65,7 +65,7 @@
   * Xspace sessions.
 * Application period is officially open until April 4th.
 
-#### **4. ISC Voting Rights & Membership**
+### **4. ISC Voting Rights & Membership**
 
 * Discussion on clarifying voting rights within the ISC, particularly for committee chairs and functional heads.
 * Decision: Voting rights granted to:
@@ -75,14 +75,14 @@
 * Clarification on the composition of community member seats and upcoming elections.
 * Agreement to publish ISC meeting minutes in the Knowledge Base.
 
-#### **5. Committee Stipends & Workload**
+### **5. Committee Stipends & Workload**
 
 * Discussion on reviewing committee stipends due to increased workload.
 * Request to add the topic to the Governance Working Group (WG) agenda for further review.
 * Concerns raised about potential back pay for committee members elected in October.
 * Request for clarity on budget proposal submission requirements (line item vs. total budget).
 
-#### **6. Intersect Governance WG Charter**
+### **6. Intersect Governance WG Charter**
 
 * Update on the Intersect Governance Working Group’s progress, including the finalization of the working group charter.
 * Purpose of the WG: To develop and refine governance processes within Intersect.
