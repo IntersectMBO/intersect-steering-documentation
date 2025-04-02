@@ -9,6 +9,7 @@
 
 ## Committee Meeting Notes
 
+* [March 31, 2025 ISC Meeting](committee-meeting-notes/march-31-2025-isc-meeting.md)
 * [March 24, 2025 ISC Meeting](committee-meeting-notes/dd-mm-yyy.md)
 
 ## Standards operational procedures
