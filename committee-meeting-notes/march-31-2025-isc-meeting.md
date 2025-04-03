@@ -13,8 +13,8 @@
 | ---------------------------------------------------- | ---------- | ------------------------------------------ | ----------------- |
 | [Simo Simovic](mailto:simo.simovic@intersectmbo.org) | Yes        | Secretary                                  | N                 |
 | Jack Briggs                                          | Yes        | Director of Ecosystem                      | Y                 |
-| Lawrence Clark                                       | Yes        | COO                                        | Y                 |
-| Nick Cook                                            | Yes        | Director of Membership & Community Hubs    | Y                 |
+| Lawrence Clark                                       | Yes        | Head of Operations                         | Y                 |
+| Nick Cook                                            | Yes        | Head of Membership & Community Hubs        | Y                 |
 | YUTA                                                 | Yes        | Community Member Seat                      | Y                 |
 | Phil Lewis                                           | Yes        | Community Member Seat                      | Y                 |
 | Thiago Nunes                                         | No         | Interim Community Member Seat              | Y                 |

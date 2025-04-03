@@ -10,29 +10,29 @@
 
 ## Attendees&#x20;
 
-| Name                                                 | Attendance | Role                                    | Voting Seat (Y/N) |
-| ---------------------------------------------------- | ---------- | --------------------------------------- | ----------------- |
-| [Simo Simovic](mailto:simo.simovic@intersectmbo.org) | Yes        | Secretary                               | N                 |
-| Jack Briggs                                          | Yes        | Director of Ecosystem & Governance      | Y                 |
-| Lawrence Clark                                       | Yes        | COO                                     | Y                 |
-| Nick Cook                                            | Yes        | Director of Membership & Community Hubs | Y                 |
-| YUTA                                                 | Yes        | Community Member Seat                   | Y                 |
-| Phil Lewis                                           | Yes        | Community Member Seat                   | Y                 |
-| Thiago Nunes                                         | Yes        | Interim Community Member Seat           | Y                 |
-| Pedro Lucas                                          | Yes        | OSC Chair                               | Y                 |
-| Samuel Leathers                                      | Yes        | Product Chair                           | Y                 |
-| Darlington Welsh                                     | Yes        | MCC Chair                               | Y                 |
-| Prof. Steven                                         | Yes        | CBC Chair                               | Y                 |
-| Kevin Hammond                                        | No         | TSC Chair                               | Y                 |
-| Seomon                                               | Yes        | GMC Chair                               | Y                 |
-| Jose Miguel De Gamboa                                | No         | CCC Chair                               | Y                 |
-| Christian Taylor                                     | Yes        | Head of Open Source Office              | N                 |
-| Lorenzo Bruno                                        | Yes        | Head of Product                         | N                 |
-| [Matt Davis](mailto:matt.davis@intersectmbo.org)     | Yes        | Head of Tech Operation                  | N                 |
-| Duncan Soutar                                        | Yes        | Secretary of TSC                        | N                 |
-| Lloyd Duhon                                          | Yes        | Secretary of Budget Committee           | N                 |
-| Larisa Mcfarlane                                     | Yes        | Secretary of Civics Committee           | N                 |
-| Terence McCutcheon                                   | No         | Secretary of OSC                        | N                 |
+| Name                                                 | Attendance | Role                                | Voting Seat (Y/N) |
+| ---------------------------------------------------- | ---------- | ----------------------------------- | ----------------- |
+| [Simo Simovic](mailto:simo.simovic@intersectmbo.org) | Yes        | Secretary                           | N                 |
+| Jack Briggs                                          | Yes        | Director of Ecosystem & Governance  | Y                 |
+| Lawrence Clark                                       | Yes        | Head of Operations                  | Y                 |
+| Nick Cook                                            | Yes        | Head of Membership & Community Hubs | Y                 |
+| YUTA                                                 | Yes        | Community Member Seat               | Y                 |
+| Phil Lewis                                           | Yes        | Community Member Seat               | Y                 |
+| Thiago Nunes                                         | Yes        | Interim Community Member Seat       | Y                 |
+| Pedro Lucas                                          | Yes        | OSC Chair                           | Y                 |
+| Samuel Leathers                                      | Yes        | Product Chair                       | Y                 |
+| Darlington Welsh                                     | Yes        | MCC Chair                           | Y                 |
+| Prof. Steven                                         | Yes        | CBC Chair                           | Y                 |
+| Kevin Hammond                                        | No         | TSC Chair                           | Y                 |
+| Seomon                                               | Yes        | GMC Chair                           | Y                 |
+| Jose Miguel De Gamboa                                | No         | CCC Chair                           | Y                 |
+| Christian Taylor                                     | Yes        | Head of Open Source Office          | N                 |
+| Lorenzo Bruno                                        | Yes        | Head of Product                     | N                 |
+| [Matt Davis](mailto:matt.davis@intersectmbo.org)     | Yes        | Head of Tech Operation              | N                 |
+| Duncan Soutar                                        | Yes        | Secretary of TSC                    | N                 |
+| Lloyd Duhon                                          | Yes        | Secretary of Budget Committee       | N                 |
+| Larisa Mcfarlane                                     | Yes        | Secretary of Civics Committee       | N                 |
+| Terence McCutcheon                                   | No         | Secretary of OSC                    | N                 |
 
 #### Additional Attendees
 
