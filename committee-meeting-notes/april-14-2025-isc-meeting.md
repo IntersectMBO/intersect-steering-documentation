@@ -52,6 +52,7 @@ Update shared on the ongoing Intersect committee elections.
 
 ### **2. Budget Proposal Submissions**
 
+* Intersect Operational Budget Proposal is in the final review, and will be submitted by end of week.
 * Several committees, including the TSC, have submitted their budget proposals.
 * The TSC’s proposal was highlighted as comprehensive, covering maintenance, priority areas, and operational expenses.
 * Questions arose regarding the expected scope and detail of budget proposals.
