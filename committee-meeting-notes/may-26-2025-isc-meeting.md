@@ -24,7 +24,7 @@
 | Darlington Welsh                                     | Yes        | MCC Chair                                  | Y                 |
 | Prof. Steven                                         | No         | Chair of Board of Directors and CBC Chair  | Y                 |
 | Kevin Hammond                                        | No         | TSC Chair                                  | Y                 |
-| Seomon                                               | No         | GMC Chair                                  | Y                 |
+| Simon Fleck                                          | No         | GMC Chair                                  | Y                 |
 | Nicolas Cerny                                        | Yes        | Interim CCC Chair                          | Y                 |
 | Christian Taylor                                     | Yes        | Head of OSO                                | N                 |
 | Lorenzo Bruno                                        | Yes        | Head of Product                            | N                 |
