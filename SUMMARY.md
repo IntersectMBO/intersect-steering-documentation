@@ -8,6 +8,7 @@
 
 ## Committee Meeting Notes
 
+* [June 23, 2025 ISC Meeting](committee-meeting-notes/june-23-2025-isc-meeting.md)
 * [June 16, 2025 ISC Meeting](committee-meeting-notes/june-16-2025-isc-meeting.md)
 * [June 09, 2025 ISC Meeting](committee-meeting-notes/june-09-2025-isc-meeting.md)
 * [June 02, 2025 ISC Meeting](committee-meeting-notes/june-02-2025-isc-meeting.md)
