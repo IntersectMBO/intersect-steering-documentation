@@ -38,7 +38,7 @@
 
 
 
-### Additional Attendees:
+Additional Attendees:
 
 Kyle Solomon - Vice-chair of Product Committee
 
