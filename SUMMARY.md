@@ -48,6 +48,7 @@
     * [March 25, 2025](working-group/working-groups/working-group-meeting-notes/march-25-2025.md)
     * [March 18, 2025](working-group/working-groups/working-group-meeting-notes/march-18-2025.md)
     * [March 11, 2025](working-group/working-groups/working-group-meeting-notes/march-11-2025.md)
+    * [July 17, 2025](working-group/working-groups/working-group-meeting-notes/july-17-2025.md)
 
 ## Standards operational procedures
 
