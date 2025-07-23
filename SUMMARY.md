@@ -30,6 +30,7 @@
 
 * [Intersect Governance WG](working-group/working-groups/README.md)
   * [Working Group Meeting Notes](working-group/working-groups/working-group-meeting-notes/README.md)
+    * [July 17, 2025](working-group/working-groups/working-group-meeting-notes/july-17-2025.md)
     * [July 10, 2025](working-group/working-groups/working-group-meeting-notes/july-10-2025.md)
     * [July 3, 2025](working-group/working-groups/working-group-meeting-notes/july-3-2025.md)
     * [June 26, 2025](working-group/working-groups/working-group-meeting-notes/june-26-2025.md)
@@ -48,7 +49,6 @@
     * [March 25, 2025](working-group/working-groups/working-group-meeting-notes/march-25-2025.md)
     * [March 18, 2025](working-group/working-groups/working-group-meeting-notes/march-18-2025.md)
     * [March 11, 2025](working-group/working-groups/working-group-meeting-notes/march-11-2025.md)
-    * [July 17, 2025](working-group/working-groups/working-group-meeting-notes/july-17-2025.md)
 
 ## Standards operational procedures
 
