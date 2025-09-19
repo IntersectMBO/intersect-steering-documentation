@@ -8,6 +8,7 @@
 
 ## Committee Meeting Notes
 
+* [September 15, ISC Meeting](committee-meeting-notes/september-15-isc-meeting.md)
 * [September 8, ISC Meeting](committee-meeting-notes/september-8-isc-meeting.md)
 * [September 1, ISC Meeting](committee-meeting-notes/september-1-isc-meeting.md)
 * [August 25, ISC Meeting](committee-meeting-notes/august-25-isc-meeting.md)
@@ -33,7 +34,6 @@
 * [April 07, 2025 ISC Meeting](committee-meeting-notes/april-07-2025-isc-meeting.md)
 * [March 31, 2025 ISC Meeting](committee-meeting-notes/march-31-2025-isc-meeting.md)
 * [March 24, 2025 ISC Meeting](committee-meeting-notes/dd-mm-yyy.md)
-* [September 15, ISC Meeting](committee-meeting-notes/september-15-isc-meeting.md)
 
 ## Working Group
 
