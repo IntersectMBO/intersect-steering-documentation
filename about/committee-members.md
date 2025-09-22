@@ -2,7 +2,6 @@
 
 ## Committee Composition
 
-* 1 Chair
 * 4 Community Seats
 * 7 Intersect Committee Chairs (the chairs of the Intersect Committees)
 * 5 Intersect Function Directors & Function Heads
