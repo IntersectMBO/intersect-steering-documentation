@@ -9,29 +9,7 @@
 
 ## Attendees:&#x20;
 
-| Name                                                 | Attendance | Role                            | Voting Seat (Y/N) |
-| ---------------------------------------------------- | ---------- | ------------------------------- | ----------------- |
-| [Simo Simovic](mailto:simo.simovic@intersectmbo.org) | No         | Secretary                       | N                 |
-| Jack Briggs                                          | Yes        | Interim Executive Director      | Y                 |
-| Nick Cook                                            | No         | Director - Operations (Interim) | Y                 |
-| YUTA                                                 | Yes        | Community Member Seat           | Y                 |
-| Phil Lewis                                           | Yes        | Community Member Seat           | Y                 |
-| Sheldon Hunt                                         | Yes        | Community Member Seat           | Y                 |
-| Fred Tanaka                                          | Yes        | Community Member Seat           | Y                 |
-| Elaine Cardenas                                      | Yes        | OSC Chair                       | Y                 |
-| Samuel Leathers                                      | No         | Product Chair                   | Y                 |
-| Darlington Welsh                                     | Yes        | MCC Chair                       | Y                 |
-| Kristijan Kowalsky                                   | No         | CBC Chair                       | Y                 |
-| Kevin Hammond                                        | No         | TSC Chair                       | Y                 |
-| Wes Parkison                                         | No         | GMC Chair                       | Y                 |
-| Nicolas Cerny                                        | No         | CCC Chair                       | Y                 |
-| Christian Taylor                                     | No         | Head of OSO                     | N                 |
-| Lorenzo Bruno                                        | Yes        | Head of Product                 | N                 |
-| Matt Davis                                           | No         | Head of Tech Operation          | N                 |
-| Tim Richmond                                         | No         | Head of Comms                   | N                 |
-| Lloyd Duhon                                          | Yes        | Secretary of Budget Committee   | N                 |
-| Larisa Mcfarlane                                     | Yes        | Secretary of CCC                | N                 |
-| Terence McCutcheon                                   | Yes        | Secretary of OSC                | N                 |
+<table data-header-hidden><thead><tr><th width="138.76171875"></th><th width="126.1015625"></th><th width="233.24609375"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td></tr><tr><td><a href="mailto:simo.simovic@intersectmbo.org">Simo Simovic</a></td><td>No</td><td>Secretary</td><td>N</td></tr><tr><td>Jack Briggs</td><td>Yes</td><td>Interim Executive Director</td><td>Y</td></tr><tr><td>Nick Cook</td><td>No</td><td>Director - Operations (Interim)</td><td>Y</td></tr><tr><td>YUTA </td><td>Yes</td><td>Community Member Seat</td><td>Y</td></tr><tr><td>Phil Lewis</td><td>Yes</td><td>Community Member Seat</td><td>Y</td></tr><tr><td>Sheldon Hunt</td><td>Yes</td><td>Community Member Seat</td><td>Y</td></tr><tr><td>Fred Tanaka</td><td>Yes</td><td>Community Member Seat</td><td>Y</td></tr><tr><td>Elaine Cardenas</td><td>Yes</td><td>OSC Chair</td><td>Y</td></tr><tr><td>Samuel Leathers</td><td>No</td><td>Product Chair</td><td>Y</td></tr><tr><td>Darlington Welsh</td><td>Yes</td><td>MCC Chair</td><td>Y</td></tr><tr><td>Kristijan Kowalsky</td><td>No</td><td>CBC Chair </td><td>Y</td></tr><tr><td>Kevin Hammond</td><td>No</td><td>TSC Chair</td><td>Y</td></tr><tr><td>Wes Parkison</td><td>No</td><td>GMC Chair</td><td>Y</td></tr><tr><td>Nicolas Cerny</td><td>No</td><td>CCC Chair</td><td>Y</td></tr><tr><td>Christian Taylor</td><td>No</td><td>Head of OSO</td><td>N</td></tr><tr><td>Lorenzo Bruno</td><td>Yes</td><td>Head of Product</td><td>N</td></tr><tr><td>Matt Davis</td><td>No</td><td>Head of Tech Operation</td><td>N</td></tr><tr><td>Tim Richmond</td><td>No</td><td>Head of Comms</td><td>N</td></tr><tr><td>Lloyd Duhon</td><td>Yes</td><td>Secretary of Budget Committee</td><td>N</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary of CCC</td><td>N</td></tr><tr><td>Terence McCutcheon</td><td>Yes</td><td>Secretary of OSC</td><td>N</td></tr></tbody></table>
 
 ### Additional Attendees:
 
