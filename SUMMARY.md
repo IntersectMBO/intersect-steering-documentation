@@ -8,6 +8,8 @@
 
 ## Committee Meeting Notes
 
+* [October 20, ISC Meeting](committee-meeting-notes/october-20-isc-meeting.md)
+* [October 13, ISC Meeting](committee-meeting-notes/october-13-isc-meeting.md)
 * [October 06, ISC Meeting](committee-meeting-notes/october-06-isc-meeting.md)
 * [September 29, ISC Meeting](committee-meeting-notes/september-29-isc-meeting.md)
 * [September 22, ISC Meeting](committee-meeting-notes/september-22-isc-meeting.md)
