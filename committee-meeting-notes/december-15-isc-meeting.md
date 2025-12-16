@@ -31,7 +31,8 @@
 | Abhik Nag                                            | Yes        | Secretary of MCC                | N                 |
 | Lloyd Duhon                                          | Yes        | Secretary of Budget Committee   | N                 |
 | Larisa Mcfarlane                                     | No         | Secretary of CCC                | N                 |
-| Terence McCutcheon                                   | No         | Secretary of OSC & GMC          | N                 |
+| Terence McCutcheon                                   | No         | Secretary of OSC                | N                 |
+| Lara Bonasorte                                       | No         | Secretary of  GMC               | N                 |
 
 
 
