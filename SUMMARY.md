@@ -51,6 +51,7 @@
 
 * [Intersect Governance WG](working-group/working-groups/README.md)
   * [Working Group Meeting Notes](working-group/working-groups/working-group-meeting-notes/README.md)
+    * [December 11, 2025](working-group/working-groups/working-group-meeting-notes/december-11-2025.md)
     * [December 04, 2025](working-group/working-groups/working-group-meeting-notes/december-04-2025.md)
     * [November 20, 2025](working-group/working-groups/working-group-meeting-notes/november-20-2025.md)
     * [November 06, 2025](working-group/working-groups/working-group-meeting-notes/november-06-2025.md)
