@@ -1,4 +1,4 @@
-# August 11, ISC Meeting
+# August 18, ISC Meeting
 
 ## Agenda:
 
