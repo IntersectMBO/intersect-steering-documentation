@@ -81,4 +81,4 @@ It was noted that the Budget Committee is planning a retrospective to review thi
 
 * Submit 39 individual treasury withdrawals in one coordinated batch.
 * Coordinate ISC observer participation in the June Intersect Board meeting.
-* Refine and test the decision-making framework in a practical workshop setting.\
+* Refine and test the decision-making framework in a practical workshop setting.<br>

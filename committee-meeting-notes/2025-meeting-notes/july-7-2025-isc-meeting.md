@@ -63,8 +63,7 @@ Thiago Nunes - Observer
 * The metadata for the 39 treasury withdrawal proposals is nearly complete. Minor adjustments are being made due to vendor changes. Aiming for submission within the week. Tim Richmond is coordinating communications and support to vendors post-submission, including a vendor pitch event and social media kits.
 * Anticipation that many treasury withdrawal proposals may not pass, which could affect ecosystem morale.
 * Intersect will remain neutral in voting outcomes but will offer logistical and communication support to vendors (e.g. symposiums, social sharing).
-* Proposals can be resubmitted, and feedback loops are planned.\
-
+* Proposals can be resubmitted, and feedback loops are planned.<br>
 
 #### **Intersect’s Role & Identity (Phil Lewis' prompt)**
 
@@ -77,8 +76,7 @@ Thiago Nunes - Observer
 * Kyle and Pedro agreed Intersect needs to scale back, focusing on strengths rather than trying to do everything.
 * Darlington called for a broader strategic reflection on Intersect’s identity and purpose beyond the current agenda cycle.
 * Sheldon highlighted growing internal fatigue and bureaucracy, advocating for urgency, focus, and improved communications.\
-  \
-
+  <br>
 
 ***
 

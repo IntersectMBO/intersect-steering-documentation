@@ -1,4 +1,4 @@
-# About Intersect Steering Committee
+# Intersect Steering Committee (ISC)
 
 ## What is the Intersect Steering Committee?
 
@@ -8,6 +8,5 @@ ISC is a collective member driven governing body which will oversee all standing
 
 In turn this will drive forward the growth of Intersect on behalf of the Intersect membership and wider Cardano ecosystem.&#x20;
 
-\
-
+<br>
 

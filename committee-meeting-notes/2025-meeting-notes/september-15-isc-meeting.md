@@ -90,4 +90,4 @@ The ISC confirmed that Phil’s earlier proposal on Intersect’s role and respo
 * Committee Elections: Finalize criteria and additional questions for ISC election seats; share updated draft in Discord.
 * Member Survey: Finalize and launch next week; close two weeks before AMM in late November.
 
-\
+<br>

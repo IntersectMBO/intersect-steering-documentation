@@ -83,4 +83,4 @@ There was broad agreement to proceed with a first version of the policy, while c
 
 * Service Rewards: Update draft policy to reflect feedback (short contribution reports, attendance-based ideas, committee autonomy options). Prepare a clean version for vote in the next meeting.
 
-\
+<br>

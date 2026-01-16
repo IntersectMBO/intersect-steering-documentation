@@ -82,4 +82,4 @@ The ISC explored how working groups should operate when spanning multiple commit
 * Administration Deck to be shared with Kevin (pass it to the TSC)
 * Solutions for tracking documentation updates on Intersect knowledge base will be investigated and tested.
 
-\
+<br>

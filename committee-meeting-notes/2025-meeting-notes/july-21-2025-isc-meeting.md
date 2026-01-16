@@ -34,8 +34,7 @@
 | Larisa Mcfarlane                                     | No         | Secretary of CCC                | N                 |
 | Terence McCutcheon                                   | Yes        | Secretary of OSC                | N                 |
 
-\
-
+<br>
 
 Additional Attendees:
 

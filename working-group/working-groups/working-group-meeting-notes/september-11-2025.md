@@ -4,8 +4,7 @@
 
 <table data-header-hidden><thead><tr><th width="200.21875"></th><th width="116.82421875"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td></tr><tr><td><a href="mailto:simo.simovic@intersectmbo.org">Simo Simovic</a></td><td>No</td><td>WG Lead/Secretary</td></tr><tr><td>Phil Lewis</td><td>No</td><td>ISC Member</td></tr><tr><td>Thiago Nunes</td><td>Yes</td><td>Interim ISC Member</td></tr><tr><td>Pedro Lucas</td><td>No</td><td>OSC Chair, Representing two Enterprise Members</td></tr><tr><td>Nicholas Cerny</td><td>Yes</td><td>Civics Committee Chair</td></tr><tr><td>Vaibhav S</td><td>Yes</td><td>GMC Member</td></tr><tr><td>Jose Iadicicco</td><td>Yes</td><td>Community Member</td></tr><tr><td>Maureen Wepngong</td><td>Yes</td><td>DRep</td></tr><tr><td>Terence McCutcheon</td><td>No</td><td>Intersect</td></tr><tr><td>Tevo Saks</td><td>No</td><td>Community Member</td></tr><tr><td>Lorenzo Bruno</td><td>Yes</td><td>Head of Product Curation at Intersect</td></tr><tr><td>Elaine Cardenas</td><td>Yes</td><td>Chair of OSC</td></tr><tr><td>James Meidinger</td><td>Yes</td><td>Member of Product Committee</td></tr><tr><td>Ken-Erik Ølmheim</td><td>Yes</td><td>Member of Civics Committee</td></tr><tr><td>Ryan Williams</td><td>Yes</td><td><br></td></tr></tbody></table>
 
-\
-
+<br>
 
 Recording: [Intersect Governance WG Weekly - 2025/09/11 15:57 CEST - Recording](https://drive.google.com/file/d/1WNU7igJ1IKh3bQQGqPdVD_dK7tp0SU6q/view)
 

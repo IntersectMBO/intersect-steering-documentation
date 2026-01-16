@@ -38,8 +38,7 @@
 
 Valeria Devaux - Observer
 
-Thiago Nunes - Observer\
-
+Thiago Nunes - Observer<br>
 
 ## Discussion/Actions
 

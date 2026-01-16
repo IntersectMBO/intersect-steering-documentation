@@ -51,14 +51,12 @@ Elaine Kardennis - Observer
 * Technical Steering Committee: Engaged with Product and GMC committees on the 2030 Vision. Monitoring for potential intra-era hard fork.
 * Budget Committee: Planning for a budget retrospective and a more inclusive 2026 process. DReps and community involvement emphasized, with kickoff expected in two weeks.
 * Product Committee: Canada and Rare workshops planned. Outreach to businesses building on Cardano to inform long-term vision continues.
-* Civics Committee: OKR workshops concluded; concrete recommendations expected shortly.\
-
+* Civics Committee: OKR workshops concluded; concrete recommendations expected shortly.<br>
 
 ### 2. Budget Process Role Discussion
 
 * Clarification needed on whether Intersect’s role is to manage the ecosystem-wide budget or only for its own members.
-* Feedback invited via Discord post. Workshops and consultations to follow.\
-
+* Feedback invited via Discord post. Workshops and consultations to follow.<br>
 
 ### 3. Consultant Transition Plan
 

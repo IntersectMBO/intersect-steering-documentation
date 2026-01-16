@@ -56,8 +56,7 @@ The committee reported that the Governance Health Working Group held its first m
 
 * Decision-Making Framework: The Governance WG is finalizing a decision-making diagram and supporting documentation. A draft has been shared, and the goal is to present a finalized version back to ISC at an upcoming meeting.
 * Committee Funding: Still an open issue. The internal team will need to develop a mechanism for supporting committees not covered in the approved budget.\
-  \
-
+  <br>
 
 3\. Committee Service Reward Policy Discussion
 
@@ -89,4 +88,4 @@ The draft ISC survey has been shared with members for feedback. The plan is to f
 
 * Service Reward Policy: Refine the policy, make it final. Chairs to discuss with committees; ISC to vote on a final version next week.
 
-\
+<br>

@@ -59,8 +59,7 @@ The process for selecting the next Executive Director was outlined.
 * Nominations: Both self-nominations and external nominations are open for three weeks.
 * Sentiment Gathering: Members and DReps will be able to rank candidates, producing two parallel lists.
 * Selection Panel: Will include two ISC representatives, two DReps, two staff members, and board participation. The panel will review materials, conduct interviews, and forward the top three candidates to the board.\
-  \
-
+  <br>
 * Board Role: The board retains fiduciary responsibility and final decision-making authority. If the candidate pool is unsatisfactory, the process may be extended or restarted.\
   ISC members were invited to self-nominate for panel participation, secretary will follow up via Discord, to make sure we have ISC participant selected.&#x20;
 
@@ -80,4 +79,4 @@ Committee elections are open, but participation remains low. At the time of the 
 ### 6. Next Steps & Actions
 
 ISC Members: Review decision-making documentation; Nominate 5 ISC representatives for ED panel.\
-\
+<br>

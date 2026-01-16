@@ -100,4 +100,4 @@ Thiago Nunes - Observer&#x20;
 * Oversight committee clarification item to be closed, it will be open again for further discussion if needed.
 * The topic of Intersect's strategic role to be escalated for input from the executive team and board.
 
-\
+<br>
