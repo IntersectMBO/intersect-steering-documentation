@@ -48,7 +48,7 @@ Shared that the hard fork workstream is progressing, with a release candidate ex
 
 #### Civics Committee
 
-Reported the publication of the first Governance Health Report, available in PDF and machine-readable formats for explorers and dashboards. The Governance Health Working Group will pause until new objectives are set. The CIP-149 optional DRep compensation grant deadline was extended to the end of January due to holiday delays and pending integrations from wallets and SDK teams.
+Reported the publication of the first Governance Health Report, available in PDF and as a [standalone page](https://gov-health.intersectmbo.org/)  for explorers and dashboards. The Governance Health Working Group will pause until new objectives are set. The CIP-149 optional DRep compensation grant deadline was extended to the end of January due to holiday delays and pending integrations from wallets and SDK teams.
 
 #### Growth & Marketing Committee (GMC)
 
