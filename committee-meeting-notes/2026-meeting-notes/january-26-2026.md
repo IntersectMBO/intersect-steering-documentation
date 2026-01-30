@@ -58,7 +58,7 @@ The meeting marked the first monthly joint session between the Intersect Steerin
 
 ### 2. Committee Updates
 
-Civics Committee announced the conclusion of its Vice-Chair election, with Nana Safo elected following a brief extension due to voting portal issues. Increased participation was noted in the Constitutional Amendments Working Group, with momentum building around a repository-based approach to constitutional amendments inspired by, but simpler than, the CIP process.
+Civics Committee announced the conclusion of its Vice-Chair election, with Nana Safo elected pending audit/ confirmation due to voting portal issues. Increased participation was noted in the Constitutional Amendments Working Group, with momentum building around a repository-based approach to constitutional amendments inspired by, but simpler than, the CIP process.
 
 Budget Committee reported significant progress on the 2026 budget template, including a recent usability walkthrough. Work is now moving toward development and coordination with Intersect’s delivery assurance team, with the intent to support an upcoming budget process info action.
 
