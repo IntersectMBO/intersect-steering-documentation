@@ -109,6 +109,6 @@ A standardized budget submission template will be shared to support consistency 
 
 ### 6. Close
 
-The Chair & Vice-Chair Election Policy discussion was deferred to the next meeting. Notes will be shared asynchronously, and further feedback on elections, committee terms, and budget guidance will continue through working groups.
+The Chair & Vice-Chair Election Policy discussion was deferred to the next meeting. Notes will be shared asynchronously, and further feedback on elections, committee terms, and budget guidance will continue through working groups. No new formal actions were assigned during this meeting.
 
 <br>
