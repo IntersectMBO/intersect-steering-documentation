@@ -97,6 +97,8 @@ A dedicated ISC session in early March was proposed to review committee budgets 
 
 ### 7. Close & Next Steps
 
-The meeting concluded with acknowledgments of the volume of work underway across committees and appreciation for continued collaboration. No new formal actions were assigned during this meeting.
+* Revisit the Chair & Vice-Chair Election Policy after further review, with the current draft continuing to exclude the ISC.
+* Coordinate ISC representation for upcoming committee elections to explain ISC’s role to candidates and voters.
+* Plan a dedicated ISC session in early March to collectively review committee budgets.
 
 <br>
