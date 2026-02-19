@@ -9,6 +9,9 @@
 ## Committee Meeting Notes
 
 * [2026 Meeting Notes](committee-meeting-notes/2026-meeting-notes/README.md)
+  * [February 16 2026](committee-meeting-notes/2026-meeting-notes/february-16-2026.md)
+  * [February 9 2026](committee-meeting-notes/2026-meeting-notes/february-9-2026.md)
+  * [February 2 2026](committee-meeting-notes/2026-meeting-notes/february-2-2026.md)
   * [January 26 2026](committee-meeting-notes/2026-meeting-notes/january-26-2026.md)
   * [January 19 2026](committee-meeting-notes/2026-meeting-notes/january-19-2026.md)
   * [January 12 2026](committee-meeting-notes/2026-meeting-notes/january-12-2026.md)
