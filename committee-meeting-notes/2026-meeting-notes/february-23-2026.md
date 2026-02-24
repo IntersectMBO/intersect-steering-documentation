@@ -5,7 +5,7 @@
 | Name                                                 | Attendance | Role                            | Voting Seat (Y/N) |
 | ---------------------------------------------------- | ---------- | ------------------------------- | ----------------- |
 | [Simo Simovic](mailto:simo.simovic@intersectmbo.org) | Yes        | Secretary                       | N                 |
-| Jack Briggs                                          | No         | Interim Executive Director      | Y                 |
+| Jack Briggs                                          | No         | Executive Director              | Y                 |
 | Nick Cook                                            | No         | Director - Operations (Interim) | Y                 |
 | Sheldon Hunt                                         | Yes        | Community Member Seat           | Y                 |
 | Fred Tanaka                                          | Yes        | Community Member Seat           | Y                 |
