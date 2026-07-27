@@ -36,6 +36,7 @@
   * [January 19 2026](committee-meeting-notes/2026-meeting-notes/january-19-2026.md)
   * [January 12 2026](committee-meeting-notes/2026-meeting-notes/january-12-2026.md)
   * [January 5 2026](committee-meeting-notes/2026-meeting-notes/january-5-2026.md)
+  * [July 20 2026](committee-meeting-notes/2026-meeting-notes/july-20-2026.md)
 * [2025 Meeting Notes](committee-meeting-notes/2025-meeting-notes/README.md)
   * [December 15, ISC Meeting](committee-meeting-notes/december-15-isc-meeting.md)
   * [December 08, ISC Meeting](committee-meeting-notes/december-08-isc-meeting.md)
